@@ -1,6 +1,7 @@
 # Monokai EasyLight
 
 A theme based on the [Monokai TextMate Theme](http://colorsublime.com/theme/Monokai).
+
 Forked from https://github.com/gerane/VSCodeThemes.git for personnal usage
 
 Modifications :
